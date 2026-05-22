@@ -1,0 +1,3 @@
+future: false
+plugins:
+  - jekyll-readme-index
